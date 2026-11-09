@@ -94,7 +94,7 @@
         "wk:page":"Nakfa%2C_Eritrea"
     },
     "wof:country":"ER",
-    "wof:geomhash":"9e39a4ae61601e722c7447459a3cc795",
+    "wof:geomhash":"95fca278a9c0038398c08815028e2244",
     "wof:hierarchy":[
         {
             "country_id":85632781,
@@ -117,5 +117,5 @@
     38.47649000000001,
     16.66726
 ],
-  "geometry": {"coordinates":[38.47649000000001,16.66726],"type":"Point"}
+  "geometry": {"coordinates":[38.47649,16.66726],"type":"Point"}
 }

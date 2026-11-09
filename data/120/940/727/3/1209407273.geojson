@@ -67,7 +67,7 @@
         "wk:page":"Arkiko"
     },
     "wof:country":"ER",
-    "wof:geomhash":"c4c8b6fc03c78a9f4f6951e60b2eab3f",
+    "wof:geomhash":"f985411354580607850fb3f68187a577",
     "wof:hierarchy":[
         {
             "country_id":85632781,
@@ -90,5 +90,5 @@
     39.45294000000001,
     15.53774
 ],
-  "geometry": {"coordinates":[39.45294000000001,15.53774],"type":"Point"}
+  "geometry": {"coordinates":[39.45294,15.53774],"type":"Point"}
 }

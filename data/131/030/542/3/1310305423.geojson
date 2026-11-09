@@ -42,7 +42,7 @@
         "wk:page":"Hambok"
     },
     "wof:country":"ER",
-    "wof:geomhash":"8b193508bb5b84276c1ee58587c51b0a",
+    "wof:geomhash":"5ed46a0c9b712bb5181c37c78ba8c761",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     37.35704000000001,
     15.39305
 ],
-  "geometry": {"coordinates":[37.35704000000001,15.39305],"type":"Point"}
+  "geometry": {"coordinates":[37.35704,15.39305],"type":"Point"}
 }

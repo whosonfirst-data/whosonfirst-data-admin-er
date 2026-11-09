@@ -45,7 +45,7 @@
         "gn:id":6415939
     },
     "wof:country":"ER",
-    "wof:geomhash":"13abb4a50e15cc5fabe07c03c9e934c8",
+    "wof:geomhash":"95819af3c2886d10af6d3926b5218d03",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     38.39944000000001,
     14.5425
 ],
-  "geometry": {"coordinates":[38.39944000000001,14.5425],"type":"Point"}
+  "geometry": {"coordinates":[38.39944,14.5425],"type":"Point"}
 }
