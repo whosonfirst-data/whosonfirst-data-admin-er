@@ -1,0 +1,74 @@
+{
+  "id": 9895016472,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.70703,12.9557,42.70703,12.9557",
+    "geom:latitude":12.9557,
+    "geom:longitude":42.70703,
+    "iso:country":"ER",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413774: name \"Margable\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413774"
+        },
+        {
+            "citation":"GeoNames populated place 13413774: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413774"
+        },
+        {
+            "citation":"GeoNames populated place 13413774: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413774"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758369 (Asseb), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781,
+        85671111,
+        102191573,
+        1108758369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413774
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"ecb0beb148a6a5aafd7f7d6683656bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758369,
+            "locality_id":9895016472,
+            "region_id":85671111
+        }
+    ],
+    "wof:id":9895016472,
+    "wof:lastmodified":1795735167,
+    "wof:name":"Margable",
+    "wof:parent_id":1108758369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.70703,
+    12.9557,
+    42.70703,
+    12.9557
+],
+  "geometry": {"coordinates":[42.70703,12.9557],"type":"Point"}
+}

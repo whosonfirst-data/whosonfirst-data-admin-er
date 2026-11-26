@@ -1,0 +1,74 @@
+{
+  "id": 9895016466,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.26812,15.70744,38.26812,15.70744",
+    "geom:latitude":15.70744,
+    "geom:longitude":38.26812,
+    "iso:country":"ER",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 335278: name \"Hagaz\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/335278"
+        },
+        {
+            "citation":"GeoNames populated place 335278: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/335278"
+        },
+        {
+            "citation":"GeoNames populated place 335278: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/335278"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758283 (Hagaz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781,
+        102191573,
+        1108758283,
+        1108805927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":335278
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"07fc99e75815b03e91735197a51d106f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758283,
+            "locality_id":9895016466,
+            "region_id":1108805927
+        }
+    ],
+    "wof:id":9895016466,
+    "wof:lastmodified":1795735167,
+    "wof:name":"Hagaz",
+    "wof:parent_id":1108758283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.26812,
+    15.70744,
+    38.26812,
+    15.70744
+],
+  "geometry": {"coordinates":[38.26812,15.70744],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895016475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.62107,15.11251,38.62107,15.11251",
+    "geom:latitude":15.11251,
+    "geom:longitude":38.62107,
+    "iso:country":"ER",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13414009: name \"Adi Felesti\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13414009"
+        },
+        {
+            "citation":"GeoNames populated place 13414009: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13414009"
+        },
+        {
+            "citation":"GeoNames populated place 13414009: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13414009"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758383 (Dbarwa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781,
+        85671109,
+        102191573,
+        1108758383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13414009
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"819cc297b9d7c5642ddc2c5baa7459b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758383,
+            "locality_id":9895016475,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":9895016475,
+    "wof:lastmodified":1795735167,
+    "wof:name":"Adi Felesti",
+    "wof:parent_id":1108758383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.62107,
+    15.11251,
+    38.62107,
+    15.11251
+],
+  "geometry": {"coordinates":[38.62107,15.11251],"type":"Point"}
+}
