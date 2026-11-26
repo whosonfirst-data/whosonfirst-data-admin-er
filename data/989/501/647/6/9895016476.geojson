@@ -1,0 +1,74 @@
+{
+  "id": 9895016476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.67802,15.08158,38.67802,15.08158",
+    "geom:latitude":15.08158,
+    "geom:longitude":38.67802,
+    "iso:country":"ER",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13414010: name \"Amadr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13414010"
+        },
+        {
+            "citation":"GeoNames populated place 13414010: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13414010"
+        },
+        {
+            "citation":"GeoNames populated place 13414010: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13414010"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758383 (Dbarwa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781,
+        85671109,
+        102191573,
+        1108758383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13414010
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"69f595e0812148ec3c1bbd2d0e6b39c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758383,
+            "locality_id":9895016476,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":9895016476,
+    "wof:lastmodified":1795735167,
+    "wof:name":"Amadr",
+    "wof:parent_id":1108758383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.67802,
+    15.08158,
+    38.67802,
+    15.08158
+],
+  "geometry": {"coordinates":[38.67802,15.08158],"type":"Point"}
+}

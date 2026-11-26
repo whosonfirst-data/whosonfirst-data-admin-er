@@ -1,0 +1,74 @@
+{
+  "id": 9895016477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97204,15.17264,38.97204,15.17264",
+    "geom:latitude":15.17264,
+    "geom:longitude":38.97204,
+    "iso:country":"ER",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13414011: name \"Gadien\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13414011"
+        },
+        {
+            "citation":"GeoNames populated place 13414011: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13414011"
+        },
+        {
+            "citation":"GeoNames populated place 13414011: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13414011"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108758385 (Dekemhare), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632781,
+        85671109,
+        102191573,
+        1108758385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13414011
+    },
+    "wof:country":"ER",
+    "wof:geomhash":"8c5df07d9a4c1297a4d9fe0141ad4aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632781,
+            "county_id":1108758385,
+            "locality_id":9895016477,
+            "region_id":85671109
+        }
+    ],
+    "wof:id":9895016477,
+    "wof:lastmodified":1795735167,
+    "wof:name":"Gadien",
+    "wof:parent_id":1108758385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-er",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97204,
+    15.17264,
+    38.97204,
+    15.17264
+],
+  "geometry": {"coordinates":[38.97204,15.17264],"type":"Point"}
+}
